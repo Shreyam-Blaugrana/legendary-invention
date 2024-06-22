@@ -1,4 +1,4 @@
-<img align="center" alt="MasterHead" width="800" src="https://images.app.goo.gl/V33xmeUWkEWmT1Bj6">
+<img align="center" alt="MasterHead" width="800" src="https://static.vecteezy.com/system/resources/thumbnails/008/902/912/small/devops-banner-concept-has-8-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-and-release-for-software-development-and-information-technology-operations-infographic-vector.jpg">
 <h1 align="center">Hi 👋, I'm Shreyam Sahu</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 <img align="right" balt="coding" width="400" src="https://images.app.goo.gl/98LKCZjNVrpBvPkp9">
