@@ -1,7 +1,7 @@
-<img align="center" alt="MasterHead" width="800" src="https://static.vecteezy.com/system/resources/thumbnails/008/902/912/small/devops-banner-concept-has-8-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-and-release-for-software-development-and-information-technology-operations-infographic-vector.jpg">
+<img align="center" alt="MasterHead" width="800" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educba.com%2Fdevops-engineer%2F&psig=AOvVaw2tVwJrZUIYfaT0EAD4rw9T&ust=1719130911226000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICjyf_j7oYDFQAAAAAdAAAAABAJ">
 <h1 align="center">Hi 👋, I'm Shreyam Sahu</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
-<img align="left" balt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="center" balt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyam-blaugrana&label=Profile%20views&color=0e75b6&style=flat" alt="shreyam-blaugrana" /> </p>
 
